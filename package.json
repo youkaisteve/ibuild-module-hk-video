@@ -1,0 +1,20 @@
+
+{
+  "name": "react-native-ibuild-module-hk-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.0",
+    "prop-types":"^15.5.10"
+  }
+}
